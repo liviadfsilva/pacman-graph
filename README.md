@@ -84,4 +84,6 @@ Add the following to your README.md file, replacing "your-username" for your own
 ### 4. Commit the changes
 Now you can enjoy your own pac-man contribution graph.
 
+<br/>
+
 ###### Have fun! 🩷
