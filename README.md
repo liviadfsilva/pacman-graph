@@ -25,8 +25,8 @@ In your repository, go to Actions > Set up a Workflow Yourself, then paste this 
 name: Generate pacman animation
 
 on:
-  schedule: # runs every 24 hours
-    - cron: "* */24 * * *"
+  schedule: # runs every 12 hours
+    - cron: "* */12 * * *"
 
   workflow_dispatch:
   push:
